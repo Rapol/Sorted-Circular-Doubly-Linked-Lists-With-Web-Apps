@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/login.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/main.jsp
+END
+studentInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/studentInfo.jsp
+END
+addStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/addStudent.jsp
+END
+studentNotFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/studentNotFound.jsp
+END
+rum.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/rum.png
+END
+loginError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/loginError.jsp
+END
+searchStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/searchStudent.jsp
+END
+badLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/badLogin.jsp
+END
+studentAdded.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/WebContent/studentAdded.jsp
+END

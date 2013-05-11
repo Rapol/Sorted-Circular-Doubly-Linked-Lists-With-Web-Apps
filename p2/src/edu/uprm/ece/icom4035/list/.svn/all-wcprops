@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list
+END
+ReverseIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/ReverseIterator.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/List.java
+END
+ListTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/ListTester.java
+END
+ListFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/ListFactory.java
+END
+SortedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/SortedList.java
+END
+SortedCircularDoublyLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/icom4035/s13/!svn/ver/2247/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/SortedCircularDoublyLinkedList.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/LinkedList.java
+END
+LinkedListFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/icom4035/s13/!svn/ver/1838/sec087/4035_b19/trunk/proyecto/p2/src/edu/uprm/ece/icom4035/list/LinkedListFactory.java
+END
